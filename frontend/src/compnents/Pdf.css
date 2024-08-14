@@ -1,0 +1,24 @@
+#pdfContent {
+    padding: 20px;
+  }
+  
+  .border-end {
+    border-right: 2px solid #d44444;
+  }
+  
+  .vertical-line {
+    border-right: 1px solid #000;
+  }
+  
+  .table-with-vertical-lines td,
+  .table-with-vertical-lines th {
+    border: 1px solid #000 !important;
+  }
+  
+  .table-light {
+    background-color: #f8f9fa;
+  }
+  
+  hr {
+    margin: 0.5rem 0;
+  }
